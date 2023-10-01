@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Claudio Fernandes",
+    "role": "CEO / Co-Founder",
+    "imageUrl": "./profiles/1558363935347.jpeg",
+    "link": "https://www.linkedin.com/in/claudiofer/"
+  },
+  {
+    "name": "Nuno Morais",
+    "role": "Co-Founder",
+    "imageUrl": "./profiles/1516265086504.jpeg",
+    "link": "https://www.linkedin.com/in/nunomorais/"
+  },
+  {
+    "name": "Pedro Roque",
+    "role": "Co-Founder",
+    "imageUrl": "./profiles/1605710872131.jpeg",
+    "link": "https://www.linkedin.com/in/pedroluisroque/"
+  }
+]

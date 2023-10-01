@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Home",
+    "href": "/"
+  },
+  {
+    "name": "Solutions",
+    "href": "",
+    "subMenu": {
+      "items": [
+        {
+          "name": "Business Process Automation",
+          "href": "/solutions/business-process-automation",
+          "icon": "ClipboardDocumentListIcon",
+          "description": "Create complex workflows to optimize business operations"
+        },
+        {
+          "name": "Effortless Data Analysis",
+          "href": "/solutions/effortless-data-analysis",
+          "icon": "PresentationChartBarIcon",
+          "description": "Transform everyday language into database queries"
+        },
+        {
+          "name": "Intelligent Chatbots for Internal Support",
+          "href": "/solutions/intelligent-chatbots-for-internal-support",
+          "icon": "ChatBubbleLeftRightIcon",
+          "description": "Empower your team with chatbots that uses your company knowledge"
+        },
+        {
+          "name": "Personalized Customer Experiences",
+          "href": "/solutions/personalized-customer-experiences",
+          "icon": "BeakerIcon",
+          "description": "Persuasive, high-quality content with Generative AI"
+        }
+      ],
+      "callsToAction": [
+        {
+          "name": "Request a demo",
+          "href": "https://impactinggroup.com/contact-us",
+          "icon": "PlayCircleIcon"
+        },
+        {
+          "name": "Contact sales",
+          "href": "https://impactinggroup.com/contact-us",
+          "icon": "PhoneIcon"
+        }
+      ]
+    }
+  },
+  {
+    "name": "About Us",
+    "href": "/#about-us"
+  },
+  {
+    "name": "Founders",
+    "href": "/#founders"
+  },
+  {
+    "name": "Contact",
+    "href": "https://impactinggroup.com/contact-us"
+  }
+]

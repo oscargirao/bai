@@ -1,0 +1,56 @@
+[
+  {
+    "href": "https://adclick.pt/",
+    "title": "Adclick",
+    "imgSrc": "https://adc-signature.s3.amazonaws.com/images/logo-adc.png",
+    "imgWidth": 73
+  },
+  {
+    "href": "https://www.emailbidding.com/?locale=pt_PT",
+    "title": "Emailbidding",
+    "imgSrc": "https://adc-signature.s3.amazonaws.com/images/logo-eb.png",
+    "imgWidth": 75
+  },
+  {
+    "href": "https://smark.io/",
+    "title": "Smarkio",
+    "imgSrc": "https://adc-signature.s3.amazonaws.com/images/logo-sm.png",
+    "imgWidth": 66
+  },
+  {
+    "href": "https://beeleads.com.br/",
+    "title": "Beeleads",
+    "imgSrc": "https://adc-signature.s3.amazonaws.com/images/logo-beeleads.png",
+    "imgWidth": 45
+  },
+  {
+    "href": "https://impacting.digital/",
+    "title": "Impacting Digital",
+    "imgSrc": "https://adc-signature.s3.amazonaws.com/images/logo-id.png",
+    "imgWidth": 56
+  },
+  {
+    "href": "https://www.wemystic.com/",
+    "title": "WeMystic",
+    "imgSrc": "https://adc-signature.s3.amazonaws.com/images/logo-mys.png",
+    "imgWidth": 72
+  },
+  {
+    "href": "https://www.pushnews.com.br/",
+    "title": "Pushnews",
+    "imgSrc": "https://adc-signature.s3.amazonaws.com/images/logo-push.png",
+    "imgWidth": 99
+  },
+  {
+    "href": "https://www.tech4h.com.br/",
+    "title": "Tech4Humans",
+    "imgSrc": "./companies/tech4humans.png",
+    "imgWidth": 99
+  },
+  {
+    "href": "https://wacestudio.com/",
+    "title": "wace digital agency",
+    "imgSrc": "./companies/wace.png",
+    "imgWidth": 69
+  }
+]
